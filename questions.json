@@ -1,0 +1,1919 @@
+[
+  {
+    "id": "SG1-005",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Sicherungen ist die zuverlässigste?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Stangensicherung"
+      },
+      {
+        "letter": "B",
+        "text": "Abzugssicherung"
+      },
+      {
+        "letter": "C",
+        "text": "Schlagstücksicherung"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 5
+  },
+  {
+    "id": "SG1-006",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Sicherungen ist bei Kipplaufwaffen gebräuchlich?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Flügelsicherung"
+      },
+      {
+        "letter": "B",
+        "text": "Schiebesicherung"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Die Schiebesicherung wird auch als Greener-Sicherung bezeichnet. Die Flügelsicherung ist bei 98er-System (Repetierbüchse) gebräuchlich.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 6
+  },
+  {
+    "id": "SG1-008",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Welches der nachgenannten Sicherheitssysteme an Kipplaufgewehren bietet gegen eine unbeabsichtigte Schussauslösung die größere Sicherheit?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Kipplaufgewehr mit Handspannung?"
+      },
+      {
+        "letter": "B",
+        "text": "Kipplaufgewehr mit automatischer Sicherung"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Eine Handspannung ist immer der Sicherung vorzuziehen, da diese sicherstellt, dass das Schloss erst gespannt wird, wenn ein Schuss abgegeben werden soll. Die Sicherung eines gespannten Schlosses hingegen hat immer ein Restrisiko durch bspw. Materialermüdung.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 8
+  },
+  {
+    "id": "SG1-009",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Welche der nachstehenden Langwaffen hat i.d.R. keine Sicherung?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Selbstspanner-Drilling"
+      },
+      {
+        "letter": "B",
+        "text": "98er-Repetierbüchse"
+      },
+      {
+        "letter": "C",
+        "text": "Es gibt keine Langwaffe ohne Sicherung"
+      },
+      {
+        "letter": "D",
+        "text": "Bockbüchsflinte mit Handspannung"
+      }
+    ],
+    "correct": [
+      3
+    ],
+    "explanation": "Die Handspannung ist technisch betrachtet keine Sicherung. Mit einer Handspannung, kann ich das Schloss erst unmittelbar vor Schussabgabe spannen und brauche deshalb keine Sicherung. Sicherungen sind immer auf gespannte Schlosse notwendig, um eine ungewollte Schussabgabe zu verhindern.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 9
+  },
+  {
+    "id": "SG1-010",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Zu welchem Sicherungstyp zählt die Flügelsicherung nach Mauser System 98?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Stangensicherung"
+      },
+      {
+        "letter": "B",
+        "text": "Schlagbolzensicherung"
+      },
+      {
+        "letter": "C",
+        "text": "Abzugssicherung"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Die Flügelsicherung blockiert den Schlagbolzen.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 10
+  },
+  {
+    "id": "SG1-011",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Aufgaben haben die Züge und Felder im Lauf?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Drehung des Geschosses zur Stabilisierung der Flugbahn"
+      },
+      {
+        "letter": "B",
+        "text": "Vergrößerung des Schusskanals im Wildkörper"
+      },
+      {
+        "letter": "C",
+        "text": "Verhinderung des Überschlagens des Geschosses nach Verlassen des Laufes"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "Die Züge und Felder versetzten das Geschoss in eine Drehbewegung. Dieser Drall stabilisiert die Flugbahn.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 11
+  },
+  {
+    "id": "SG1-012",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Wodurch erhält das Geschoss den Drall im Büchsenlauf?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Durch die Züge und Felder"
+      },
+      {
+        "letter": "B",
+        "text": "Durch den Aufbau des Geschossmantels"
+      },
+      {
+        "letter": "C",
+        "text": "Durch die Würgebohrung"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Die Züge und Felder bringen das Geschoss in eine Drehbewegung, um die Flugbahn zu stabilisieren.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 12
+  },
+  {
+    "id": "SG1-022",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Bei welchem Flintenkaliber ist der Durchmesser des Laufes größer?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Bei Kaliber 20"
+      },
+      {
+        "letter": "B",
+        "text": "Bei Kaliber 12"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "Das Kaliber des Flintenlaufes wird angegeben durch eine Zahl. Diese gibt durch wie viele gleich große Kugeln man ein englisches Pfund Blei teilen muss um eine Kugel im Durchmesser des Flintenlaufes zu erhalten. Teilt man durch 12 ist der Durchmesser also größer, als wenn man durch 20 teilen würde.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 22
+  },
+  {
+    "id": "SG1-023",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Wo befinden sich an einer Flinte die Angaben über Kaliber und Bohrung des Patronenlagers für 65 bzw. 70 mm?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "An den Läufen"
+      },
+      {
+        "letter": "B",
+        "text": "An der Basküle"
+      },
+      {
+        "letter": "C",
+        "text": "Am Schaft"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "Da die Kaliberangabe für Lauf und Patronenlager relevant sind, befindet sich diese Angabe am Lauf.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 23
+  },
+  {
+    "id": "SG1-024",
+    "sachgebiet": "Sachgebiet 1: Jagdwaffen, Jagd- und Fanggeräte",
+    "thema": "Lang- und Kurzwaffen, Munition, Ballistik, Optik",
+    "unterthema": "",
+    "question": "Was bezweckt die Choke-Bohrung (Würgebohrung)?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Bessere Durchschlagskraft für Flintenlaufgeschosse"
+      },
+      {
+        "letter": "B",
+        "text": "Beeinflussung der Schrotgarbenstreuung"
+      },
+      {
+        "letter": "C",
+        "text": "Drehung der Schrotkörner"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 24
+  },
+  {
+    "id": "SG2-001",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Allgemein",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Wildarten verfärben bzw. mausern für den Winter weiß?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Hermelin"
+      },
+      {
+        "letter": "B",
+        "text": "Kaninchen"
+      },
+      {
+        "letter": "C",
+        "text": "Alpenschneehuhn"
+      },
+      {
+        "letter": "D",
+        "text": "Schneehase"
+      },
+      {
+        "letter": "E",
+        "text": "Feldhase"
+      }
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 1
+  },
+  {
+    "id": "SG2-004",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Allgemein",
+    "unterthema": "",
+    "question": "Bei welcher Tierart sind in der Regel beide Elterntiere an der Aufzucht der Jungen beteiligt?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Fuchs"
+      },
+      {
+        "letter": "B",
+        "text": "Rehwild"
+      },
+      {
+        "letter": "C",
+        "text": "Rotwild"
+      },
+      {
+        "letter": "D",
+        "text": "Schwarzwild"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 4
+  },
+  {
+    "id": "SG2-007",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Haarwild",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Wildarten setzen in der Regel in Erdhöhlen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Baummarder"
+      },
+      {
+        "letter": "B",
+        "text": "Murmeltier"
+      },
+      {
+        "letter": "C",
+        "text": "Fuchs"
+      },
+      {
+        "letter": "D",
+        "text": "Hase"
+      },
+      {
+        "letter": "E",
+        "text": "Dachs"
+      },
+      {
+        "letter": "F",
+        "text": "Wildkaninchen"
+      }
+    ],
+    "correct": [
+      1,
+      2,
+      4,
+      5
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 7
+  },
+  {
+    "id": "SG2-020",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Haarwild",
+    "unterthema": "Schalenwild",
+    "question": "Welche der nachgenannten Wildarten nehmen Suhlen an?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Rotwild"
+      },
+      {
+        "letter": "B",
+        "text": "Schwarzwild"
+      },
+      {
+        "letter": "C",
+        "text": "Gamswild"
+      },
+      {
+        "letter": "D",
+        "text": "Rehwild"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 20
+  },
+  {
+    "id": "SG2-021",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Haarwild",
+    "unterthema": "Schalenwild",
+    "question": "An welchem der nachgenannten Merkmale unterscheidet sich der Schalenabdruck eines Stückes Rotwild von dem des Schwarzwildes am deutlichsten?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Abdruck des Geäfters"
+      },
+      {
+        "letter": "B",
+        "text": "Länge"
+      },
+      {
+        "letter": "C",
+        "text": "Breite"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 21
+  },
+  {
+    "id": "SG2-023",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Haarwild",
+    "unterthema": "Schalenwild",
+    "question": "Rotwild unterscheidet sich in seinem Äsungsverhalten vom Rehwild. Welche der nachgenannten Aussagen sind richtig?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Rotwild äst vorwiegend wählerisch (selektierend)"
+      },
+      {
+        "letter": "B",
+        "text": "Rotwild äst wenig wählerisch"
+      },
+      {
+        "letter": "C",
+        "text": "Rotwild schält auch Baumrinde ab und nimmt sie auf"
+      },
+      {
+        "letter": "D",
+        "text": "Rehwild äst vorwiegend wählerisch (selektierend)"
+      },
+      {
+        "letter": "E",
+        "text": "Rehwild äst wenig wählerisch"
+      },
+      {
+        "letter": "F",
+        "text": "Rehwild schält auch Baumrinde ab und nimmt sie auf"
+      }
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 23
+  },
+  {
+    "id": "SG2-028",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Haarwild",
+    "unterthema": "Schalenwild",
+    "question": "Aus welchen der nachgenannten Mägen ist ein Wiederkäuermagen zusammengesetzt?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Pansen"
+      },
+      {
+        "letter": "B",
+        "text": "Netzmagen"
+      },
+      {
+        "letter": "C",
+        "text": "Blättermagen"
+      },
+      {
+        "letter": "D",
+        "text": "Kropf"
+      },
+      {
+        "letter": "E",
+        "text": "Labmagen"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      4
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 28
+  },
+  {
+    "id": "SG2-029",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Haarwild",
+    "unterthema": "Schalenwild",
+    "question": "Bei welchen der nachgenannten Schalenwildarten trägt auch das weibliche Tier einen Kopfschmuck?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Gamswild"
+      },
+      {
+        "letter": "B",
+        "text": "Steinwild"
+      },
+      {
+        "letter": "C",
+        "text": "Rotwild"
+      },
+      {
+        "letter": "D",
+        "text": "Damwild"
+      },
+      {
+        "letter": "E",
+        "text": "Sikawild"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "Bei den Geweihträgern (Cerviden) tragen für gewöhnlich nur die männlichen Stücke einen Kopfschmuck. Bei den Hornträgern (Boviden) auch die weiblichen - Ausnahme Muffelschafe tragen nur selten ein Gehörn.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 29
+  },
+  {
+    "id": "SG2-030",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Haarwild",
+    "unterthema": "Schalenwild",
+    "question": "Welche der nachgenannten Schalenwildarten werfen ihren Kopfschmuck nicht ab?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Gamswild"
+      },
+      {
+        "letter": "B",
+        "text": "Sikawild"
+      },
+      {
+        "letter": "C",
+        "text": "Steinwild"
+      },
+      {
+        "letter": "D",
+        "text": "Muffelwild"
+      }
+    ],
+    "correct": [
+      0,
+      2,
+      3
+    ],
+    "explanation": "Die Gehörnträger (Boviden) tragen einen Kopfschmuck der ein Leben lang weiter wächst und nicht abgeworfen wird.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 30
+  },
+  {
+    "id": "SG2-032",
+    "sachgebiet": "Sachgebiet 2: Biologie der Wildarten",
+    "thema": "Haarwild",
+    "unterthema": "Rotwild",
+    "question": "Welche der nachgenannten Verhaltensweisen treffen auf Rotwild zu?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Territorial"
+      },
+      {
+        "letter": "B",
+        "text": "Gruppenbildung"
+      },
+      {
+        "letter": "C",
+        "text": "Weite Wanderungen"
+      }
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "Rotwild lebt außerhalb der Brunft in geschlechtergetrennten Rudeln und legt weite Strecken zurück.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 32
+  },
+  {
+    "id": "SG3-002",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Was beinhaltet die gesetzliche Pflicht zur Hege?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Sicherung ausreichender natürlicher Äsung"
+      },
+      {
+        "letter": "B",
+        "text": "Fütterung im Herbst zur Minderung von Wildschäden"
+      },
+      {
+        "letter": "C",
+        "text": "Die Reduktion überhöhter Wildbestände"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 2
+  },
+  {
+    "id": "SG3-003",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Was beinhaltet die gesetzliche Pflicht zur Hege?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Erhaltung oder Herstellung eines natürlichen Geschlechterverhältnisses"
+      },
+      {
+        "letter": "B",
+        "text": "Pflicht zur Fütterung in Notzeiten"
+      },
+      {
+        "letter": "C",
+        "text": "Gabe von Kraftfutter zur Gewinnung starker Trophäen"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 3
+  },
+  {
+    "id": "SG3-012",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Wildarten zählen jagdrechtlich zum Hochwild?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Schwarzwild"
+      },
+      {
+        "letter": "B",
+        "text": "Auerwild"
+      },
+      {
+        "letter": "C",
+        "text": "Birkwild"
+      },
+      {
+        "letter": "D",
+        "text": "Rotwild"
+      },
+      {
+        "letter": "E",
+        "text": "Damwild"
+      },
+      {
+        "letter": "F",
+        "text": "Rehwild"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      3,
+      4
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 12
+  },
+  {
+    "id": "SG3-018",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Flächen zählen nach dem Bayerischen Jagdgesetz zu den gesetzlich befriedeten Bezirken?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Eingezäunter Obstgarten, der unmittelbar an ein bewohntes Anwesen anschließt"
+      },
+      {
+        "letter": "B",
+        "text": "Feldscheune mit eingezäunter Viehweide"
+      },
+      {
+        "letter": "C",
+        "text": "Friedhof"
+      },
+      {
+        "letter": "D",
+        "text": "Umzäunter Fischweiher mit Geräteschuppen"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 18
+  },
+  {
+    "id": "SG3-023",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Darf ein an der Jagdausübung verhinderter Revierinhaber einen Jagdgenossen, der nicht im Besitz eines gültigen Jagdscheines ist, mit dem selbstständigen Fangen des Raubwildes in seinem Revier beauftragen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Ja, ohne weiteres"
+      },
+      {
+        "letter": "B",
+        "text": "Ja, aber nur mit behördlicher Sondererlaubnis"
+      },
+      {
+        "letter": "C",
+        "text": "Nein"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 23
+  },
+  {
+    "id": "SG3-036",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Sie einigen sich mit dem Eigentümer eines Eigenjagdreviers durch Handschlag über die Verpachtung seines Niederwildreviers für die nächsten neun Jagdjahre. Ist ein wirksamer Jagdpachtvertrag zustande gekommen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Ja"
+      },
+      {
+        "letter": "B",
+        "text": "Nein"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 36
+  },
+  {
+    "id": "SG3-050",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Ist der Inhaber eines Jugendjagdscheins berechtigt, als Schütze an einer Treibjagd teilzunehmen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Ja, aber nur in Begleitung des Erziehungsberechtigten, wenn dieser selbst Jagdscheininhaber ist"
+      },
+      {
+        "letter": "B",
+        "text": "Ja, ohne besondere Erlaubnis"
+      },
+      {
+        "letter": "C",
+        "text": "Nein"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 50
+  },
+  {
+    "id": "SG3-058",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Aussagen zu Drück- und Riegeljagden treffen zu?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Bei einer Drück- oder Riegeljagd dürfen Hunde freilaufend verwendet werden"
+      },
+      {
+        "letter": "B",
+        "text": "Rotwild darf nicht erlegt werden"
+      },
+      {
+        "letter": "C",
+        "text": "Rehwild darf nicht erlegt werden"
+      },
+      {
+        "letter": "D",
+        "text": "Es dürfen maximal 4 Treiber drücken"
+      }
+    ],
+    "correct": [
+      0,
+      3
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 58
+  },
+  {
+    "id": "SG3-080",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Auf welche Flächeneinheit beziehen sich die Forstlichen Gutachten zur Situation der Waldverjüngung (Vegetationsgutachten), die alle drei Jahre von der Forstverwaltung erstellt werden?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Jagdrevier"
+      },
+      {
+        "letter": "B",
+        "text": "Gemeinde"
+      },
+      {
+        "letter": "C",
+        "text": "Hegegemeinschaft"
+      },
+      {
+        "letter": "D",
+        "text": "Kreisgruppe"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 80
+  },
+  {
+    "id": "SG3-110",
+    "sachgebiet": "Sachgebiet 3: Rechtliche Vorschriften",
+    "thema": "Jagdrecht",
+    "unterthema": "",
+    "question": "Welche Aussagen zum \"Elterntierschutz\" sind richtig?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Die Jagdausübung auf Elterntiere, die zur Aufzucht notwendig sind, ist während der Brut-, und Setzzeit nicht erlaubt"
+      },
+      {
+        "letter": "B",
+        "text": "Es sind ausschließlich Muttertiere geschützt"
+      },
+      {
+        "letter": "C",
+        "text": "Bei bestimmten Wildtierarten beteiligt sich auch das Vatertier an der Aufzucht und ist deshalb in dieser Zeit mit der Jagd zu verschonen"
+      },
+      {
+        "letter": "D",
+        "text": "Der Elterntierschutz gilt nur für Wildarten mit Schonzeit"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 110
+  },
+  {
+    "id": "SG4-001",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Reviergestaltung, Maßnahmen zur Verbesserung des Wildlebensraums",
+    "unterthema": "",
+    "question": "Welches vorrangige Ziel soll durch die Anlage von mehrjährigen Wildäckern, Hecken und Feldgehölzen erreicht werden?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Erhöhung der Wilddichte"
+      },
+      {
+        "letter": "B",
+        "text": "Verbesserung der Abschussmöglichkeiten im Feld"
+      },
+      {
+        "letter": "C",
+        "text": "Verbesserung der Äsungs- und Deckungsverhältnisse im Feld"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 1
+  },
+  {
+    "id": "SG4-002",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Reviergestaltung, Maßnahmen zur Verbesserung des Wildlebensraums",
+    "unterthema": "",
+    "question": "Ein Jagdpächter will zusammen mit dem Grundstückseigentümer eine Streuobstwiese pflanzen. Muss dabei ein bestimmter Mindestabstand vom Nachbargrundstück eingehalten werden?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Ja"
+      },
+      {
+        "letter": "B",
+        "text": "Nein"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 2
+  },
+  {
+    "id": "SG4-003",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Reviergestaltung, Maßnahmen zur Verbesserung des Wildlebensraums",
+    "unterthema": "",
+    "question": "Welche Möglichkeiten der Reviergestaltung tragen zur Verbesserung der Äsungsmöglichkeiten für das Schalenwild bei?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Anlage von Wildäckern"
+      },
+      {
+        "letter": "B",
+        "text": "Pflanzung von Hecken"
+      },
+      {
+        "letter": "C",
+        "text": "Anlage von Tümpeln"
+      },
+      {
+        "letter": "D",
+        "text": "Anpflanzung von Wildobst"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 3
+  },
+  {
+    "id": "SG4-004",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Reviergestaltung, Maßnahmen zur Verbesserung des Wildlebensraums",
+    "unterthema": "",
+    "question": "Welche Gründe sprechen für die Anlage von Hecken und Feldgehölzen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Schutz vor Beutegreifern für Niederwild und Vögel"
+      },
+      {
+        "letter": "B",
+        "text": "Einstandsmöglichkeiten"
+      },
+      {
+        "letter": "C",
+        "text": "Äsung"
+      },
+      {
+        "letter": "D",
+        "text": "Brut- und Setzgelegenheiten"
+      },
+      {
+        "letter": "E",
+        "text": "Ablenkfutter für Schwarzwild"
+      }
+    ],
+    "correct": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "explanation": "Ablenkfütterungen werden gezielt angelegt, wenn vermieden werden soll, dass das Schwarzwild in die Feldkulturen geht. Z. B. nach der Saat oder wenn das Getreide milchreif wird. Sie stehen nicht ganzjährig zur Verfügung wie etwa die hier angesprochenen Hecken.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 4
+  },
+  {
+    "id": "SG4-009",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Reviergestaltung, Maßnahmen zur Verbesserung des Wildlebensraums",
+    "unterthema": "",
+    "question": "Wozu dienen Pirschwege?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Dem Vorbereiten eines Jägernotweges"
+      },
+      {
+        "letter": "B",
+        "text": "Dem geräuschlosen Anpirschen"
+      },
+      {
+        "letter": "C",
+        "text": "Dem Raubwildfang in Fanggärten"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 9
+  },
+  {
+    "id": "SG4-011",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Reviergestaltung, Maßnahmen zur Verbesserung des Wildlebensraums",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Maßnahmen an Hochsitzen müssen Sie aus Gründen der Unfallverhütung während des gesamten Jahres beachten?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Die Überprüfung auf eingetretene Schäden vor jeder Benutzung"
+      },
+      {
+        "letter": "B",
+        "text": "Den Abbau der nicht mehr benötigten Hochsitze"
+      },
+      {
+        "letter": "C",
+        "text": "Die Instandhaltung der Verblendung"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "In Bezug auf die Unfallverhütung ist die Verblendung irrelevant. Sie ist wichtig um vom Wild nicht eräugt zu werden.",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 11
+  },
+  {
+    "id": "SG4-012",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Richtlinien für die Hege und Bejagung des Schalenwildes",
+    "unterthema": "",
+    "question": "Was versteht man unter Wechselwild?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Wild, das innerhalb eines Reviers vom Einstand zur Äsung wechselt"
+      },
+      {
+        "letter": "B",
+        "text": "Wild, das während der Jagdzeit nicht ständig im Revier steht"
+      },
+      {
+        "letter": "C",
+        "text": "Wild, das sein Haarkleid wechselt"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 12
+  },
+  {
+    "id": "SG4-031",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Richtlinien für die Hege und Bejagung des Schalenwildes",
+    "unterthema": "",
+    "question": "Wo soll eine konsequente Reduktion der Schwarzwildbestände im Hinblick auf die Gefahr der Afrikanischen Schweinepest (ASP) durchgeführt werden?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "In Revieren, in denen es bereits seit vielen Jahren hohe Schwarzwildbestände gibt"
+      },
+      {
+        "letter": "B",
+        "text": "In Revieren, in denen sich die Schwarzwildpopulation im Aufbau befindet"
+      },
+      {
+        "letter": "C",
+        "text": "Eine konsequente Reduktion der Schwarzwildbestände ist nicht notwendig, da die Höhe der Schwarzwildpopulation keinerlei Einfluss auf die Ausbruchswahrscheinlichkeit der ASP hat"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 31
+  },
+  {
+    "id": "SG4-033",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Hegemaßnahmen einschließlich Fütterung",
+    "unterthema": "",
+    "question": "Welche Funktionen sollen Acker- bzw. Uferrandstreifen entlang von Hecken und Gewässern erfüllen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Nährstoff- und Pflanzenschutzmitteleinträge verhindern"
+      },
+      {
+        "letter": "B",
+        "text": "Spaziergängern neue Wanderwege bieten"
+      },
+      {
+        "letter": "C",
+        "text": "Lebensräume für die Tierwelt schaffen"
+      },
+      {
+        "letter": "D",
+        "text": "Den Landwirten zum Befahren mit ihren Maschinen dienen"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 33
+  },
+  {
+    "id": "SG4-044",
+    "sachgebiet": "Sachgebiet 4: Wildhege, Jagdbetrieb und jagdliche Praxis",
+    "thema": "Hegemaßnahmen einschließlich Fütterung",
+    "unterthema": "",
+    "question": "Welche Wildackerpflanze bietet dem Schalenwild Blatt- und Knollenäsung?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Sonnenblume"
+      },
+      {
+        "letter": "B",
+        "text": "Alexandrinerklee"
+      },
+      {
+        "letter": "C",
+        "text": "Topinambur"
+      },
+      {
+        "letter": "D",
+        "text": "Rübsen"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "leicht",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 44
+  },
+  {
+    "id": "SG5-001",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "Wie werden die Welpen der Jagdhunde geboren?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "blind"
+      },
+      {
+        "letter": "B",
+        "text": "behaart"
+      },
+      {
+        "letter": "C",
+        "text": "sehend"
+      },
+      {
+        "letter": "D",
+        "text": "unbehaart"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 1
+  },
+  {
+    "id": "SG5-003",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "In welchem Alter tritt normalerweise die erste Hitze (Läufigkeit) bei der Junghündin ein?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "7 - 9 Monate"
+      },
+      {
+        "letter": "B",
+        "text": "12 - 15 Monate"
+      },
+      {
+        "letter": "C",
+        "text": "18 - 21 Monate"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 3
+  },
+  {
+    "id": "SG5-004",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "Wie oft im Jahr wird die geschlechtsreife Hündin gewöhnlich heiß (hitzig)?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "1-mal"
+      },
+      {
+        "letter": "B",
+        "text": "2-mal"
+      },
+      {
+        "letter": "C",
+        "text": "öfter als 2-mal"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 4
+  },
+  {
+    "id": "SG5-008",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "Wie lange trägt die Hündin?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "etwa 6 Wochen"
+      },
+      {
+        "letter": "B",
+        "text": "etwa 9 Wochen"
+      },
+      {
+        "letter": "C",
+        "text": "etwa 12 Wochen"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 8
+  },
+  {
+    "id": "SG5-011",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Aussagen ist richtig?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Hunde dürfen in einem Zwinger angebunden gehalten werden"
+      },
+      {
+        "letter": "B",
+        "text": "Hunde dürfen in einem Zwinger nicht angebunden gehalten werden"
+      },
+      {
+        "letter": "C",
+        "text": "Hunde dürfen in einem Zwinger angebunden gehalten werden, sofern die Laufvorrichtung mindestens 6 m lang ist"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 11
+  },
+  {
+    "id": "SG5-014",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "Wann und wie viel Wasser ist dem Jagdhund anzubieten?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Einmal nach der Fütterung in begrenzter Menge"
+      },
+      {
+        "letter": "B",
+        "text": "Jederzeit in ausreichender Menge"
+      },
+      {
+        "letter": "C",
+        "text": "Einmal abends in begrenzter Menge"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 14
+  },
+  {
+    "id": "SG5-015",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "Wie lange müssen die Welpen mindestens bei der Hündin bleiben, bevor sie an Käufer abgegeben werden dürfen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "4 Wochen"
+      },
+      {
+        "letter": "B",
+        "text": "14 Wochen"
+      },
+      {
+        "letter": "C",
+        "text": "8 Wochen"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 15
+  },
+  {
+    "id": "SG5-019",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "Kann die Hundestaupe für den Hund tödlich verlaufen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Ja"
+      },
+      {
+        "letter": "B",
+        "text": "Nein"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 19
+  },
+  {
+    "id": "SG5-021",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "Womit darf ein Hund nicht gefüttert werden, um eine Ansteckung mit der Aujeszkyschen Krankheit (Pseudowut) zu vermeiden?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Mit Haferflocken"
+      },
+      {
+        "letter": "B",
+        "text": "Mit rohem Rindfleisch"
+      },
+      {
+        "letter": "C",
+        "text": "Mit rohem Schweinefleisch"
+      },
+      {
+        "letter": "D",
+        "text": "Mit rohem Fisch"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 21
+  },
+  {
+    "id": "SG5-030",
+    "sachgebiet": "Sachgebiet 5: Jagdhundewesen",
+    "thema": "Haltung, Erziehung und Führung von Jagdhunden",
+    "unterthema": "",
+    "question": "Worauf deuten reiskornförmige Gebilde auf dem Schlafplatz eines Hundes hin?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Auf Bandwurmbefall"
+      },
+      {
+        "letter": "B",
+        "text": "Auf Flohbefall"
+      },
+      {
+        "letter": "C",
+        "text": "Auf kleine Magensteine"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 30
+  },
+  {
+    "id": "SG6-007",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Aussagen zur „Roten Liste“ ist richtig?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Sie ist ein Nachweis der vom Aussterben bedrohten Tier- und Pflanzenarten in den Naturschutzgebieten"
+      },
+      {
+        "letter": "B",
+        "text": "Sie ist eine Auflistung der in ihrem Bestand gefährdeten Pflanzen- und Tierarten"
+      },
+      {
+        "letter": "C",
+        "text": "Die in der Roten Liste aufgeführten Tierarten dürfen nicht bejagt werden"
+      }
+    ],
+    "correct": [
+      1
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 7
+  },
+  {
+    "id": "SG6-008",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Für welche der nachgenannten Tierarten sind Nadelwälder der geeignete Lebensraum?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Neuntöter"
+      },
+      {
+        "letter": "B",
+        "text": "Tannenmeise"
+      },
+      {
+        "letter": "C",
+        "text": "Fichtenkreuzschnabel"
+      },
+      {
+        "letter": "D",
+        "text": "Haubenlerche"
+      }
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 8
+  },
+  {
+    "id": "SG6-011",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Tiere sind vorwiegend Bewohner von Hecken und Feldgehölzen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Feldlerche"
+      },
+      {
+        "letter": "B",
+        "text": "Neuntöter"
+      },
+      {
+        "letter": "C",
+        "text": "Haselmaus"
+      },
+      {
+        "letter": "D",
+        "text": "Moorfrosch"
+      },
+      {
+        "letter": "E",
+        "text": "Mehlschwalbe"
+      }
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 11
+  },
+  {
+    "id": "SG6-012",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Warum ist es verboten, in der freien Natur Hecken in der Zeit vom 1. März bis 30. September zu schneiden?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Um das Brutgeschäft der Vögel nicht zu stören"
+      },
+      {
+        "letter": "B",
+        "text": "Um das Landschaftsbild nicht zu beeinträchtigen"
+      },
+      {
+        "letter": "C",
+        "text": "Um die Feldbestellung nicht zu behindern"
+      }
+    ],
+    "correct": [
+      0
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 12
+  },
+  {
+    "id": "SG6-013",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Tierarten bewohnen Baumhöhlen, ersatzweise Nistkästen?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Bilche"
+      },
+      {
+        "letter": "B",
+        "text": "Steinmarder"
+      },
+      {
+        "letter": "C",
+        "text": "Waldohreule"
+      },
+      {
+        "letter": "D",
+        "text": "Grünspecht"
+      },
+      {
+        "letter": "E",
+        "text": "Sperlingskauz"
+      },
+      {
+        "letter": "F",
+        "text": "Iltis"
+      }
+    ],
+    "correct": [
+      0,
+      3,
+      4
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 13
+  },
+  {
+    "id": "SG6-014",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Welcher der nachgenannten Lebensräume ist für das Vorkommen der Hirschkäfer typisch?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Bergmischwälder"
+      },
+      {
+        "letter": "B",
+        "text": "Fichtenstangengehölze"
+      },
+      {
+        "letter": "C",
+        "text": "alte lichte Eichenwälder"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 14
+  },
+  {
+    "id": "SG6-018",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Welchen der nachgenannten Landschaftsräume benötigt der Große Brachvogel zum Brüten?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Weiträumiges Ackerland"
+      },
+      {
+        "letter": "B",
+        "text": "Laub- und Mischwälder"
+      },
+      {
+        "letter": "C",
+        "text": "Weite feuchte Wiesen und Moore"
+      },
+      {
+        "letter": "D",
+        "text": "Schilfgürtel"
+      }
+    ],
+    "correct": [
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 18
+  },
+  {
+    "id": "SG6-020",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Den Tag verbringen Fledermäuse in Verstecken. An welchen der nachgenannten Örtlichkeiten halten sie sich bevorzugt dabei auf?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "In warmen Dachstühlen"
+      },
+      {
+        "letter": "B",
+        "text": "Auf der Unterseite der Blätter von Eichen"
+      },
+      {
+        "letter": "C",
+        "text": "In Baumhöhlen"
+      },
+      {
+        "letter": "D",
+        "text": "An Wipfeln von Nadelbäumen"
+      }
+    ],
+    "correct": [
+      0,
+      2
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 20
+  },
+  {
+    "id": "SG6-031",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Eulenarten jagen vornehmlich bei Tage?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Sumpfohreule"
+      },
+      {
+        "letter": "B",
+        "text": "Sperlingskauz"
+      },
+      {
+        "letter": "C",
+        "text": "Waldohreule"
+      },
+      {
+        "letter": "D",
+        "text": "Waldkauz"
+      }
+    ],
+    "correct": [
+      0,
+      1
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 31
+  },
+  {
+    "id": "SG6-040",
+    "sachgebiet": "Sachgebiet 6: Naturschutz, Landbau, Forstwesen, Wild- und Jagdschadensverhütung",
+    "thema": "Natur- und Artenschutz, insbesondere besonders geschützte Tier- und",
+    "unterthema": "",
+    "question": "Welche der nachgenannten Aussagen zum Bisam sind richtig?",
+    "answers": [
+      {
+        "letter": "A",
+        "text": "Der Bisam ernährt sich bevorzugt von Fischen"
+      },
+      {
+        "letter": "B",
+        "text": "Der Bisam ernährt sich vorwiegend von Pflanzen, nimmt aber auch tierische Kost wie Insekten und Krebse an."
+      },
+      {
+        "letter": "C",
+        "text": "Der Bisam kann Uferdämme unterwühlen"
+      },
+      {
+        "letter": "D",
+        "text": "Der Schwanz des Bisam ist fast kahl, beschuppt und seitlich abgeplattet"
+      }
+    ],
+    "correct": [
+      1,
+      2,
+      3
+    ],
+    "explanation": "",
+    "difficulty": "mittel",
+    "source": "Fragenkatalog Bayern – Stand 12.05.2026",
+    "version": "2026-05-12",
+    "pdfNumber": 40
+  }
+]
