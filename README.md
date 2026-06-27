@@ -105,3 +105,6 @@ Umgesetzt:
 - Antworttext korrigiert: `Kipplaufgewehr mit Handspannung`
 - Instagram-Screenshot-Hinweis direkt vor der Ergebnisanzeige ergänzt
 - zusätzlicher Hinweis auf kleine Überraschung für geteilte Stories
+
+
+Finale Version: Button zur Danke-Seite entfernt.
