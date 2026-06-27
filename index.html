@@ -41,10 +41,9 @@ function tallyLink(){const s=score();const resultText=`${s.right} von ${s.total}
   fragen: questionIds, Fragen: questionIds,
   richtige_fragen: correctIds, falsche_fragen: wrongIds,
   quelle: 'Jagdquiz Jagdschule Mittelfranken',
-  datenschutz_url: PRIVACY_URL,
-  danke_url: new URL(THANK_YOU_URL, window.location.href).toString()
+  datenschutz_url: PRIVACY_URL
 });return `${TALLY_URL}?${params.toString()}`;}
-function goTally(){window.location.href=tallyLink();}
+function goTally(){const url=tallyLink(); window.location.href=url;}
 function render(){if(state.screen==='loading') root.innerHTML='<section class="card center"><h2>Lade Jagdquiz…</h2></section>';else if(state.screen==='error') root.innerHTML='<section class="card center"><h2>Fragen konnten nicht geladen werden.</h2></section>';else if(state.screen==='home') renderHome();else if(state.screen==='quiz') renderQuiz();else if(state.screen==='result') renderResult();}
 function renderHome(){root.innerHTML=`<section class="card center grid"><img src="logo.svg" class="logo" alt="Jagdschule Mittelfranken Logo" onerror="this.style.display='none'"/><h1>Jagdquiz</h1><p class="muted" style="max-width:650px;margin:0 auto">Teste dein Jagdwissen in 6 kurzen Fragen – je eine Frage aus jedem Sachgebiet der Bayerischen Jägerprüfung.</p><div class="btn-row"><span class="badge light">6 Fragen</span><span class="badge light">ca. 2 Minuten</span><span class="badge light">Gewinnspiel</span></div><button class="btn secondary" onclick="startQuiz()">Jagdquiz starten</button><p class="fineprint">Hinweis: Die Teilnahme am Gewinnspiel erfolgt nach Abschluss des Quiz über ein kurzes Formular.</p></section>`;}
 function renderQuiz(){const q=state.quiz[state.index];const pct=(state.index/state.quiz.length*100).toFixed(0);root.innerHTML=`<div class="topbar"><img src="logo.svg" class="logo-small" alt="Logo" onerror="this.style.display='none'"/><span class="badge">Frage ${state.index+1} von ${state.quiz.length}</span></div><section class="card grid"><div class="progress-wrap"><div class="progress" style="width:${pct}%"></div></div><div><div class="meta">${esc(sgLabel(q.id))}</div><h2 class="question-title">${esc(q.question)}</h2></div><div class="grid">${q.answers.map((a,i)=>`<button class="choice ${state.selected.includes(i)?'selected':''}" onclick="toggle(${i})"><span class="letter">${a.letter}</span>${esc(a.text)}</button>`).join('')}</div><button class="btn secondary" ${state.selected.length===0?'disabled':''} onclick="next()">Weiter</button></section>`;}
